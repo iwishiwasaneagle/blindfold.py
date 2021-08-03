@@ -4,6 +4,8 @@
 [![GitHub license](https://img.shields.io/github/license/iwishiwasaneagle/blindfold.py)](https://github.com/iwishiwasaneagle/blindfold.py/blob/main/LICENSE)
 [![GitHub stars](https://img.shields.io/github/stars/iwishiwasaneagle/blindfold.py)](https://github.com/iwishiwasaneagle/blindfold.py/stargazers)
 
+⚠️ This repo is made to annoy my friend [Eoin-McMahon](https://github.com/Eoin-McMahon), the real blindfold is found [here](https://github.com/Eoin-McMahon/blindfold) ⚠️
+
 ## ✨ Features
 * Pulls .gitignore templates from gitignore.io. 
 * Clean and simple CLI

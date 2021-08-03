@@ -38,15 +38,15 @@ blindfold --lang rust --dest ./src/
 
 ```bash
 # arguments can also be written in shorthand
-blindfold -o rust
+blindfoldpy -o rust
 ```
 
 ```bash
 # shows full list of available templates
-blindfold --list
+blindfoldpy --list
 ```
 
 ```bash
 # There is a help screen that can be shown which details the subcommands and arguments to supply to the program
-blindfold -h
+blindfoldpy -h
 ```

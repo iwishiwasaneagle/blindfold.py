@@ -1,6 +1,7 @@
 <h1 align="center"> blindfold.py - a lightweight and simple .gitignore generator</h1>
 
-[![Build](https://github.com/iwishiwasaneagle/blindfold.py/actions/workflows/build.yml/badge.svg)](https://github.com/iwishiwasaneagle/blindfold.py/actions/workflows/build.yml)
+[![Build](https://github.com/iwishiwasaneagle/blindfold.py/actions/workflows/python-build.yml/badge.svg)](https://github.com/iwishiwasaneagle/blindfold.py/actions/workflows/python-build.yml)
+[![PyPI](https://img.shields.io/pypi/v/blindfoldpy)](https://pypi.org/project/blindfoldpy/)
 [![GitHub license](https://img.shields.io/github/license/iwishiwasaneagle/blindfold.py)](https://github.com/iwishiwasaneagle/blindfold.py/blob/main/LICENSE)
 [![GitHub stars](https://img.shields.io/github/stars/iwishiwasaneagle/blindfold.py)](https://github.com/iwishiwasaneagle/blindfold.py/stargazers)
 
@@ -38,15 +39,15 @@ blindfold --lang rust --dest ./src/
 
 ```bash
 # arguments can also be written in shorthand
-blindfold -o rust
+blindfoldpy -o rust
 ```
 
 ```bash
 # shows full list of available templates
-blindfold --list
+blindfoldpy --list
 ```
 
 ```bash
 # There is a help screen that can be shown which details the subcommands and arguments to supply to the program
-blindfold -h
+blindfoldpy -h
 ```

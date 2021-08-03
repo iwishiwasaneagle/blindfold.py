@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setuptools.setup(
     name="blindfoldpy",
-    version="0.1.0",
+    version="0.1.1",
     author="iwishiwasaneagle",
     author_email="jh.ewers@gmail.com",
     description="Don't use this. Use the real blindfold. I'm just trying to spite the author who's a close friend of mine.",
@@ -18,6 +18,7 @@ setuptools.setup(
         "License :: OSI Approved :: GNU General Public License v3 (GPLv3)",
         "Operating System :: OS Independent",
     ],
+    install_requires=['requests==2.26.0'],
     python_requires='>=3.6',
     package_dir={"": "src"},
     entry_points={

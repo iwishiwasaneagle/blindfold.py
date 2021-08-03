@@ -26,38 +26,27 @@ cd blindfold.py
 python3 setup.py install
 ```
 
-<!-- ## 🔧 Examples of use:
+## 🔧 Examples of use:
 ```bash
-# generates a single gitignore file for both dart and flutter in ./src/.gitignore
-blindfold --lang dart flutter
+# generates a single gitignore file for both dart and flutter
+blindfoldpy --opts dart flutter
 ```
-
-```bash
-# use the append flag to add to the pre-existing gitignore file (can be shortened to -a)
-blindfold --append macos
-```
-
-```bash
+<!-- ```bash
 # you can specify a specific destination to store the gitignore file using the dest argument
 blindfold --lang rust --dest ./src/
-```
-
-```bash
-# you can put languages into directories by prefixing the language name with the path (which can include '**')
-blindfold --lang rs/rust py/python **/make
-```
+``` -->
 
 ```bash
 # arguments can also be written in shorthand
-blindfold -l rust -d ./src/
+blindfold -o rust
 ```
 
 ```bash
 # shows full list of available templates
-blindfold list
+blindfold --list
 ```
 
 ```bash
 # There is a help screen that can be shown which details the subcommands and arguments to supply to the program
 blindfold -h
-``` -->
+```

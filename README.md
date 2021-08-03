@@ -1,6 +1,6 @@
 <h1 align="center"> blindfold.py - a lightweight and simple .gitignore generator</h1>
 
-[![Build](https://github.com/iwishiwasaneagle/blindfold.py/actions/workflows/build.yml/badge.svg)](https://github.com/iwishiwasaneagle/blindfold.py/actions/workflows/build.yml)
+[![Build](https://github.com/iwishiwasaneagle/blindfold.py/actions/workflows/python-build.yml/badge.svg)](https://github.com/iwishiwasaneagle/blindfold.py/actions/workflows/python-build.yml)
 [![GitHub license](https://img.shields.io/github/license/iwishiwasaneagle/blindfold.py)](https://github.com/iwishiwasaneagle/blindfold.py/blob/main/LICENSE)
 [![GitHub stars](https://img.shields.io/github/stars/iwishiwasaneagle/blindfold.py)](https://github.com/iwishiwasaneagle/blindfold.py/stargazers)
 

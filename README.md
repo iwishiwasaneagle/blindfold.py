@@ -8,7 +8,7 @@
 ⚠️ This repo is made to annoy my friend [Eoin-McMahon](https://github.com/Eoin-McMahon), the real blindfold is found [here](https://github.com/Eoin-McMahon/blindfold) ⚠️
 
 ## ✨ Features
-* Pulls .gitignore templates from gitignore.io. 
+* Pulls .gitignore templates from gitignore.io
 * Clean and simple CLI
 * Allows for the combination of any number of different templates all into one gitignore
 
